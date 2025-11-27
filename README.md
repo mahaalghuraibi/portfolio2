@@ -1,6 +1,6 @@
 # Portfolio Website – Maha Alghuraibi  💕
 
-A simple and clean personal portfolio website showcasing my skills, projects, and certificates as a Full-Stack Developer.
+A simple and clean personal portfolio website showcasing my skills, projects, and certificates as a Full-Stack Developer
 
  # Features ⚡
 
